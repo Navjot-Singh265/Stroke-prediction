@@ -1,0 +1,11 @@
+feature,test,summary (stroke vs no stroke),effect size,p-value,significant (p<0.05)
+age,Mann-Whitney U,median 71.0 vs 43.0,0.8345137752656717,3.8497341579673305e-71,True
+avg_glucose_level,Mann-Whitney U,median 105.2 vs 91.5,0.6107210735947907,3.583094987269707e-09,True
+bmi,Mann-Whitney U,median 29.7 vs 28.0,0.5792009090807267,0.00010418772123808268,True
+hypertension,Chi-square,-,0.12635884599246405,1.688936253410575e-19,True
+heart_disease,Chi-square,-,0.1328942441984636,2.120831133146208e-21,True
+gender,Chi-square,-,0.008157801373075214,0.5598277580669416,False
+ever_married,Chi-square,-,0.10734232198815681,1.6862856191673454e-14,True
+work_type,Chi-square,-,0.09809214352547563,5.40903546949726e-10,True
+Residence_type,Chi-square,-,0.014505425904914148,0.29982523877153633,False
+smoking_status,Chi-square,-,0.07563358927668186,2.0077041756108317e-06,True

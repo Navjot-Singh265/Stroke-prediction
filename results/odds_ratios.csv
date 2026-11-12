@@ -1,0 +1,16 @@
+,OR,CI low,CI high,p
+ever_married vs No = Yes,0.7432,0.4524,1.221,0.2414
+gender vs Female = Male,1.0348,0.7544,1.4195,0.8319
+Residence_type vs Rural = Urban,1.0724,0.7883,1.4588,0.6563
+work_type vs Private = Child/NeverWorked,1.3465,0.1556,11.6521,0.787
+work_type vs Private = Govt_job,0.9584,0.611,1.5034,0.8533
+work_type vs Private = Self-employed,0.7553,0.5242,1.0884,0.1322
+smoking_status vs never smoked = Unknown,1.013,0.6495,1.5799,0.9547
+smoking_status vs never smoked = formerly smoked,1.2248,0.8284,1.8108,0.3094
+smoking_status vs never smoked = smokes,1.2778,0.8076,2.0219,0.295
+Age (per +10 years),2.0789,1.8289,2.3632,0.0
+Glucose (per +10 mg/dL),1.0377,1.0104,1.0657,0.0064
+BMI (per +5),1.0518,0.9264,1.1942,0.4356
+BMI missing,4.4978,2.8555,7.0847,0.0
+Hypertension,1.576,1.0932,2.2722,0.0148
+Heart disease,1.0618,0.6915,1.6303,0.7842

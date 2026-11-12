@@ -1,0 +1,6 @@
+Model,Train AUC (full),Validation AUC (full),Gap
+Logistic Regression,0.8615,0.8542,0.0073
+PCA + Logistic Regression,0.8538,0.8491,0.0047
+Decision Tree,0.9026,0.7934,0.1092
+Random Forest,0.9796,0.8447,0.1349
+MLP,0.8942,0.8491,0.0452

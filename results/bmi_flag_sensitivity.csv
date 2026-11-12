@@ -1,0 +1,5 @@
+Model,Variant,CV ROC-AUC,CV PR-AUC
+Logistic Regression,with BMI-missing flag,0.8542,0.2282
+Logistic Regression,without flag (median impute only),0.8399,0.1873
+Random Forest,with BMI-missing flag,0.8455,0.2262
+Random Forest,without flag (median impute only),0.839,0.1934

@@ -1,0 +1,6 @@
+,Bias,Variance,Expected_error
+Logistic Regression,0.2456,0.0318,0.2484
+PCA + Logistic Regression,0.2769,0.0315,0.2731
+Decision Tree,0.3288,0.1327,0.3
+Random Forest,0.2104,0.0718,0.2202
+MLP,0.2505,0.0649,0.2463

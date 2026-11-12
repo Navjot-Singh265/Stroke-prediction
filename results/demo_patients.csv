@@ -1,0 +1,4 @@
+,gender,age,hypertension,heart_disease,ever_married,work_type,Residence_type,avg_glucose_level,bmi,smoking_status,risk_score,calibrated_risk_%,flag_for_screening
+Patient A,Female,34,0,0,Yes,Private,Urban,88.0,24.5,never smoked,0.0269,1.0006,False
+Patient B,Male,58,1,0,Yes,Self-employed,Rural,135.0,31.0,formerly smoked,0.539,8.7907,True
+Patient C,Male,76,1,1,Yes,Private,Urban,218.0,29.0,smokes,0.8007,33.5916,True

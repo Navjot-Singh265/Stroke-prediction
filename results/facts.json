@@ -1,0 +1,35 @@
+{
+  "n_raw": 5110,
+  "n_clean": 5109,
+  "n_pos": 249,
+  "prevalence": 0.04873752201996477,
+  "bmi_missing": 201,
+  "bmi_missing_stroke_rate": 0.19900497512437812,
+  "n_train": 4087,
+  "n_test": 1022,
+  "pos_train": 199,
+  "pos_test": 50,
+  "pca_k80": 7,
+  "pca_k90": 9,
+  "pca_pc12": 0.4429531932127091,
+  "pc_auc": {
+    "PC1": 0.7960558967677895,
+    "PC2": 0.6061273445416382,
+    "PC3": 0.5332824099923485,
+    "PC4": 0.6312335856235912,
+    "PC5": 0.5372981160948778,
+    "PC6": 0.5259592716669769
+  },
+  "kmeans_k": 4,
+  "kmeans_sil": 0.24216928661322382,
+  "final_name": "MLP",
+  "paper_protocol_n_rep": 50,
+  "thresholds": {
+    "Logistic Regression": 0.49739122218965953,
+    "PCA + Logistic Regression": 0.47151101159563935,
+    "Decision Tree": 0.33988856112749877,
+    "Random Forest": 0.2578304089011774,
+    "MLP": 0.32326616601284036,
+    "Age-only baseline": 0.05015853578146419
+  }
+}

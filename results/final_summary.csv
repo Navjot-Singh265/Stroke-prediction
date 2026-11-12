@@ -1,0 +1,7 @@
+,ROC-AUC,PR-AUC,LogLoss (calibrated),Recall @screen,Precision @screen,Specificity @screen,% population flagged,Lift vs random,F2 @screen
+Logistic Regression,0.8351,0.2086,0.1591,0.82,0.1414,0.7438,28.3757,2.8898,0.4184
+PCA + Logistic Regression,0.8365,0.2039,0.1586,0.82,0.1297,0.7171,30.9198,2.652,0.3973
+Decision Tree,0.7851,0.1698,0.1677,0.82,0.0897,0.572,44.7162,1.8338,0.312
+Random Forest,0.8205,0.2382,0.159,0.74,0.1289,0.7428,28.0822,2.6351,0.3799
+MLP,0.8399,0.2313,0.1564,0.82,0.1327,0.7243,30.2348,2.7121,0.4028
+Age-only baseline,0.8347,0.2087,0.1572,0.82,0.1344,0.7284,29.8434,2.7477,0.4059

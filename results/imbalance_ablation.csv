@@ -1,0 +1,7 @@
+Model,Strategy,ROC-AUC,PR-AUC,Recall@0.5,Precision@0.5
+Logistic Regression,No handling,0.8504,0.2249,0.0,0.0
+Logistic Regression,Class weights,0.8542,0.2282,0.7991,0.1367
+Logistic Regression,SMOTE,0.8522,0.2328,0.7842,0.1382
+Random Forest,No handling,0.849,0.2488,0.0,0.0
+Random Forest,Class weights,0.8455,0.2262,0.4376,0.2036
+Random Forest,SMOTE,0.8206,0.1713,0.2364,0.1826

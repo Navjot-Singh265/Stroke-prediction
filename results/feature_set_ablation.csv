@@ -1,0 +1,7 @@
+Model,Feature set,CV ROC-AUC,CV PR-AUC
+Logistic Regression,All 10 attributes,0.8542,0.2282
+Logistic Regression,Paper's top-4,0.8435,0.1881
+Logistic Regression,Age only,0.8343,0.1664
+Random Forest,All 10 attributes,0.8455,0.2262
+Random Forest,Paper's top-4,0.8218,0.1672
+Random Forest,Age only,0.8137,0.1489

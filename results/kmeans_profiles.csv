@@ -1,0 +1,5 @@
+cluster,n,mean_age,mean_glucose,mean_bmi,pct_hypertension,pct_heart_disease,pct_married,stroke_rate_train,stroke_rate_test,pct_of_patients,pct_of_all_strokes,main_work_type
+0,504,60.15,203.43,33.35,25.6,15.28,90.48,12.3,12.41,12.33,31.16,Private
+1,1107,15.13,93.5,22.29,0.09,0.09,8.13,0.09,0.38,27.09,0.5,children
+2,2313,52.31,89.41,31.07,9.6,5.36,87.46,4.28,4.97,56.59,49.75,Private
+3,163,53.57,122.46,,21.47,18.4,78.53,22.7,7.89,3.99,18.59,Private

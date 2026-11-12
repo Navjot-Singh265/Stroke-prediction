@@ -1,0 +1,7 @@
+Model,ROC_AUC,PR_AUC,LogLoss_raw,LogLoss_calibrated,Brier_calibrated
+Logistic Regression,0.8351,0.2086,0.4906,0.1591,0.0425
+PCA + Logistic Regression,0.8365,0.2039,0.4893,0.1586,0.0422
+Decision Tree,0.7851,0.1698,0.5627,0.1677,0.0433
+Random Forest,0.8205,0.2382,0.2659,0.159,0.0417
+MLP,0.8399,0.2313,0.3175,0.1564,0.0413
+Age-only baseline,0.8347,0.2087,0.1572,0.1572,0.0415
